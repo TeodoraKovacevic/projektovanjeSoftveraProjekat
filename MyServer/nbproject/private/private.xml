@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/PROJEKAT/MyServer/src/operation/profil/ObrisiProfilSO.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/operation/grupa/UcitajListuGrupaSO.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/operation/zakazivanje/PretraziZakazivanjaSO.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/operation/termin/IzmeniTerminSO.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/controller/Controller.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/dbRepository/DatabaseConnectionFactory.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/operation/jezik/SacuvajJezikSO.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/operation/profil/SacuvajProfilSO.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/db/DBBroker.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/operation/termin/SacuvajTerminSO.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/main/StartServer.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/form/frmKonfiguracija.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/operation/direktor/PrijavaSO.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/operation/termin/PretraziTermineSO.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/operation/profil/UcitajListuProfilaSO.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/server/Server.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/operation/AbstractGenericOperation.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/operation/zakazivanje/IzmeniZakazivanjeSO.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/operation/profil/PretraziProfilSO.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/operation/profil/IzmeniProfilSO.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/operation/zakazivanje/DodajZakazivanjaSO.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/form/frmMainServer.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/threads/ClientHandler.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/operation/grupa/PretraziGrupuSO.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/operation/jezik/PretraziJezikSO.java</file>
+            <file>file:/C:/PROJEKAT/MyServer/src/operation/termin/UcitajListuTerminaSO.java</file>
+        </group>
+    </open-files>
+</project-private>
